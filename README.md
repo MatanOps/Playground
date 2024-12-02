@@ -41,9 +41,10 @@ Here’s what you can expect to find in this repository:
 ---
 
 ## 🧭 How to Use
+Read Contributing.md file for full instructions. 
 
 1. **Clone the Repository**:
-   ```bash
+   
    git clone https://github.com/MatanOps/playground.git
    cd playground
 
