@@ -57,10 +57,12 @@ Playground/
 │   ├── beginner/
 │   │   ├── exercise1.yaml
 │   │   ├── exercise2.yaml
+    ├── intermediate/
 │   ├── advanced/
 ├── Terraform/
 │   ├── beginner/
 │   ├── intermediate/
+    ├── advanced/
 └── Monitoring/
 
 
