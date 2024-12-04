@@ -1,0 +1,11 @@
+name: Use Block PR Workflow
+
+on:
+  pull_request:
+    branches:
+      - main
+      - features
+
+jobs:
+  block-pr:
+    uses: MatanOps/SecureVault/.github/workflows/block-pr-to-main-from-features.yml@workflows
