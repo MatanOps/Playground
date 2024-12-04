@@ -56,10 +56,14 @@ Example folder structure:
 Playground/
 ├── Kubernetes/
 │   ├── beginner/
-│   │   ├── exercise1.yaml
-│   │   ├── exercise2.yaml
+│   │   ├── exercise1
+│   │   ├── exercise2
     ├── intermediate/
+    │   │   ├── exercise1
+│   │   ├── exercise2
 │   ├── advanced/
+│   │   ├── exercise1
+│   │   ├── exercise2
 ├── Terraform/
 │   ├── beginner/
 │   ├── intermediate/
@@ -69,7 +73,7 @@ Playground/
 
 3. Follow the Instructions: Check out the CONTRIBUTING.md file for guidelines.
 
-+ Each exercise includes a README.md with instructions, prerequisites, and expected outcomes.
++ Each exercise includes a README.rsc with instructions, prerequisites, and expected outcomes.
 
 Contribute: Want to add your own exercises? Submit a pull request or create an issue!
 
